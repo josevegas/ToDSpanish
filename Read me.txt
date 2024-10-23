@@ -1,0 +1,45 @@
+
+Mac users need to to do a few things. 
+1) download NW.JS from google. https://nwjs.io/
+2) open it to verify it (it’s faster to do it now).
+3) download TOD from a .zip file. 
+4) right click TOD, click show contents, go to “contents,”. Then  “resources,” then click and drag “app.nw” out and to your desktop. 
+5) right click NW.JS, click show contents, go to “contents,” then “resources,” then click and drag app.nw from your desktop into the folder.
+6) search for a file called package.json, open it and edit the first line to look like name: “{}” (would initially look like name: “” 
+7) exit all tabs then open like normal
+
+OR
+save the game in the Mac applications and insert the administrator password for this operation.
+If you can't run RPGM games on Mac because you are running Big Sur OS then make a backup copy of the game. 
+1 - Open terminal 
+2 - Write this command 
+chmod -R 755
+3 - Press Space after the command and drag in the game and press Enter 
+4 - Write your password and press Enter 
+5 - Now open the game as per normal (a big thank you to wfuzzypup, who wrote this manual).
+
+
+
+Linux users should download nwjs from https://nwjs.io/downloads/ (NORMAL, either x64 or x32 depending on their system), extract nwjs archive into ToD: RLA directory (confirm overwrites), 
+then launch by nw executable (it should already have execution permissions), either by ./nw or double clicking the file (a big thank you to Gryxx, who wrote this manual).
+
+
+In case you want to continue the game from your last save, you need to move the "save" folder from the previous build into the the present one. You can find your "save" folder for Windows and Linux users: just in the "www" folder, for Mac users: Game.app/Contents/Resources/app.nw
+
+
+For more details, please visit my Patreon page: https://www.patreon.com/eromur_abel
+or my Boosty page: https://boosty.to/eromuravey
+
+If you have a question or need help, please visit Discord server ToD: RLA: https://discord.gg/PTQ8yzR
+
+If you want to become content creator yourself on Boosty, do so using my referral link: https://boosty.to/eromuravey/ref
+
+
+And if you want to support me, you can use
+
+Patreon: https://www.patreon.com/eromur_abel
+Boosty: https://boosty.to/eromuravey
+Donationalerts: https://www.donationalerts.com/r/eromur_abel
+itch.io: https://eromur-abel.itch.io/tales-of-divinity-rodinkas-lewd-adventures
+
+Thanks for playing!

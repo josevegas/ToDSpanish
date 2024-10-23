@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Knife","note":"","params":[0,0,0,0,0,0,0,0],"price":12,"wtypeId":12},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":212,"name":"Lantern","note":"","params":[0,0,0,0,0,0,0,0],"price":10,"wtypeId":12},
+{"id":5,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Lance of Longinus","note":"","params":[0,0,100,20,30,0,0,0],"price":999999,"wtypeId":12}
+]
