@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"sb","characterIndex":0,"characterName":"","classId":5,"equips":[1,5,1,5,4],"faceIndex":0,"faceName":"sb","traits":[],"initialLevel":4,"maxLevel":50,"name":"Rodinka","nickname":"Squirrel","note":"","profile":"Her name means mole. \nShe got that name because of one single mole on her body."},
+{"id":1,"battlerName":"sb","characterIndex":0,"characterName":"","classId":5,"equips":[1,5,1,5,4],"faceIndex":0,"faceName":"sb","traits":[],"initialLevel":4,"maxLevel":50,"name":"Rodinka","nickname":"Squirrel","note":"","profile":"Su nombre significa lunar. \nRecibió ese nombre debido a un solo lunar en su cuerpo."},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Boy","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Journal","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Load Game","nickname":"","note":"","profile":""},
